@@ -1,5 +1,5 @@
 # SecureMyWindowsPC
-This app will help you to secure your windows pc, this is what this app will help you to do on your computer:
+This app (when will be developed) will help you to secure your windows pc, this is what this app will help you to do on your computer (meanwhile you can do it manually):
 
 ## Take your pc up-to-date
 It is a very important step to install the latest security and stability fixes for your operating system, since cybercriminals always try to benefit from these security holes. You must enable windows update and set automatic update.
