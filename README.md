@@ -23,13 +23,13 @@ If you don’t want (or don’t have time) to use a password manager or to set a
  change your password every 60 days
  
 ## Backup you data
-Take at least two set of backup of your data, you can use some free sofware to do it like Free File Sync.
+Take at least two set of backup of your data, you can use some free sofware to do it like Free File Sync (https://www.freefilesync.org/).
 
 ## Use Antivirus Software
-You must install an’antivirus software of your choice. You can find many type of free antivirus, you can choose one from AV Test or AV Comparatives.
+You must install an’antivirus software of your choice. You can find many type of free antivirus, you can choose one from AV Test (https://www.av-test.org/) or AV Comparatives (https://www.av-comparatives.org/).
 
 ## Use Antiransomware Software
-Install free anti ransomware software like Ransomfree and Voodooshield.
+Install free anti ransomware software like Ransomfree (https://ransomfree.cybereason.com/) and Voodooshield (https://voodooshield.com/).
 
 ## Use DNS protection
-Set your DNS to a service of AV protection like OpenDNS or Comodo.
+Set your DNS to a service of AV protection like OpenDNS (set your dns as 208.67.222.222 and 208.67.220.220) or Comodo DNS ([8.26.56.26,8.20.247.20] or [156.154.70.22, 156.154.71.22]).
