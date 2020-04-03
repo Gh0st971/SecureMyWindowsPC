@@ -26,16 +26,16 @@ If you don’t want (or don’t have time) to use a password manager or to set a
 Take at least two set of backup of your data, you can use some free sofware to do it like Free File Sync (https://www.freefilesync.org/).
 
 ## Use Antivirus Software
-You must install an’antivirus software of your choice. You can find many type of free antivirus, you can choose one from AV Test (https://www.av-test.org/) or AV Comparatives (https://www.av-comparatives.org/).
+You must install an’antivirus software of your choice.  You can find many type of free antivirus, you can choose one from AV Test (https://www.av-test.org/) or AV Comparatives (https://www.av-comparatives.org/).
 
 ## Use Antiransomware Software
 Install free anti ransomware software like Ransomfree (https://ransomfree.cybereason.com/) and Voodooshield (https://voodooshield.com/).
 
 ## Use DNS protection
-Set your DNS to a service of DNS protection like, you can use for example:\n
-AdGuard DNS (https://adguard.com/): 176.103.130.130 and 176.103.130.131\n
-Quad9 (https://www.quad9.net/): 9.9.9.9 and 149.112.112.112
-OpenDNS (https://www.opendns.com/): 208.67.222.222 and 208.67.220.220
+Set your DNS to a service of DNS protection like, you can use for example:  
+AdGuard DNS (https://adguard.com/): 176.103.130.130 and 176.103.130.131  
+Quad9 (https://www.quad9.net/): 9.9.9.9 and 149.112.112.112  
+OpenDNS (https://www.opendns.com/): 208.67.222.222 and 208.67.220.220  
 
 A great possibility for home users is to install AdGuard Home https://github.com/AdguardTeam/AdGuardHome
 Comodo DNS ([8.26.56.26,8.20.247.20] or [156.154.70.22, 156.154.71.22])
