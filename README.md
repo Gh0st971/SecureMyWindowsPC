@@ -32,8 +32,8 @@ You must install an’antivirus software of your choice. You can find many type 
 Install free anti ransomware software like Ransomfree (https://ransomfree.cybereason.com/) and Voodooshield (https://voodooshield.com/).
 
 ## Use DNS protection
-Set your DNS to a service of DNS protection like, you can use for example:
-AdGuard DNS (https://adguard.com/): 176.103.130.130 and 176.103.130.131
+Set your DNS to a service of DNS protection like, you can use for example:\n
+AdGuard DNS (https://adguard.com/): 176.103.130.130 and 176.103.130.131\n
 Quad9 (https://www.quad9.net/): 9.9.9.9 and 149.112.112.112
 OpenDNS (https://www.opendns.com/): 208.67.222.222 and 208.67.220.220
 
