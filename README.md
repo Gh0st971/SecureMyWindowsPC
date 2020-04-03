@@ -1,5 +1,5 @@
 # SecureMyWindowsPC
-This app (when will be developed) will help you to secure your windows pc, this is what this app will help you to do on your computer (meanwhile you can do it manually):
+This app (when and if will be developed) will help you to secure your windows pc, this is what this app will help you to do on your computer (meanwhile you can do it manually):
 
 ## Take your pc up-to-date
 It is a very important step to install the latest security and stability fixes for your operating system, since cybercriminals always try to benefit from these security holes. You must enable windows update and set automatic update.
@@ -32,4 +32,11 @@ You must install an’antivirus software of your choice. You can find many type 
 Install free anti ransomware software like Ransomfree (https://ransomfree.cybereason.com/) and Voodooshield (https://voodooshield.com/).
 
 ## Use DNS protection
-Set your DNS to a service of AV protection like OpenDNS (set your dns as 208.67.222.222 and 208.67.220.220) or Comodo DNS ([8.26.56.26,8.20.247.20] or [156.154.70.22, 156.154.71.22]).
+Set your DNS to a service of DNS protection like, you can use for example:
+AdGuard DNS (https://adguard.com/): 176.103.130.130 and 176.103.130.131
+Quad9 (https://www.quad9.net/): 9.9.9.9 and 149.112.112.112
+OpenDNS (https://www.opendns.com/): 208.67.222.222 and 208.67.220.220
+
+A great possibility for home users is to install AdGuard Home https://github.com/AdguardTeam/AdGuardHome
+Comodo DNS ([8.26.56.26,8.20.247.20] or [156.154.70.22, 156.154.71.22])
+
