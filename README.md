@@ -33,11 +33,25 @@ Install free anti ransomware software like Ransomfree (https://ransomfree.cybere
 
 ## Use DNS protection
 Set your DNS to a service of DNS protection like, you can use for example:  
-AdGuard DNS (https://adguard.com/): 176.103.130.130 and 176.103.130.131  
-Quad9 (https://www.quad9.net/): 9.9.9.9 and 149.112.112.112  
-OpenDNS (https://www.opendns.com/): 208.67.222.222 and 208.67.220.220  
-Comodo DNS ([8.26.56.26,8.20.247.20] or [156.154.70.22, 156.154.71.22])  
 
-A great possibility for home users is to install AdGuard Home https://github.com/AdguardTeam/AdGuardHome
+**AdGuard DNS**  
+(https://adguard.com/): 176.103.130.130 and 176.103.130.131  
+A great possibility for home users is to install AdGuard Home https://github.com/AdguardTeam/AdGuardHome  
+
+**Quad9**  
+(https://www.quad9.net/): 9.9.9.9 and 149.112.112.112  
+
+**1.1.1.1 for families**  
+(https://blog.cloudflare.com/introducing-1-1-1-1-for-families/):  
+Malware Blocking Only: 1.1.1.2 and 1.0.0.2  
+Malware and Adult Content: 1.1.1.3 and 1.0.0.3  
+
+**OpenDNS**  
+(https://www.opendns.com/): 208.67.222.222 and 208.67.220.220  
+
+**Comodo DNS**  
+(https://www.comodo.com/secure-dns/switch/) 8.26.56.26 and 8.20.247.20  
+
+
 
 
