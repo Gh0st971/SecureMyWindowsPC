@@ -9,7 +9,7 @@ To get the security updates automatically, go to '''Control Panel''' and check i
 Access the search box in your Windows operating system, type update and then Windows Update.
 Select Change settings.
 Click '''Install updates automatically (recommended)''', in case it is not already selected.
-You must also update other software you install on pc, you can use a free software like Secunia PSI (https://www.flexerasoftware.com/enterprise/products/software-vulnerability-management/personal-software-inspector/), Patch My Pc (https://patchmypc.net/) or Heimdal Free (https://heimdalsecurity.com/en/products/heimdal-free) to do it automatically.
+You must also update other software you install on pc, you can use a free software like Secunia PSI (https://www.flexerasoftware.com/enterprise/products/software-vulnerability-management/personal-software-inspector/), Patch My Pc (https://patchmypc.net/) or Heimdal Thor Free (https://heimdalsecurity.com/en/products/thor-free-software-updater) to do it automatically.
 
 ## Administrative account
 Don’t use administrative account for everyday usage.
