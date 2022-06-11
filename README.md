@@ -32,7 +32,10 @@ You must install an’antivirus software of your choice.  You can find many type
 Install free anti ransomware software like Ransomfree (https://ransomfree.cybereason.com/) and Voodooshield (https://voodooshield.com/).
 
 ## Debloat Windows
-Debloat Windows 11 From Unnecessary Apps and Services, open a powershell prompt as Administrator and run: "iwr -useb https://git.io/debloat|iex"
+Debloat Windows 11 From Unnecessary Apps and Services, open a powershell prompt as Administrator and run:
+```
+iwr -useb https://git.io/debloat|iex
+```
 
 ## Use DNS protection
 Set your DNS to a service of DNS protection like, you can use for example:  
